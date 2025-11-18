@@ -27,7 +27,7 @@ Before you begin, ensure you have the following installed:
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repository-url>
+git clone git@github.com:Vishanth21/school-admin-portal.git
 cd school-admin-portal
 ```
 
